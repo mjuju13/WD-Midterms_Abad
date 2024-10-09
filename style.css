@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(219, 148, 55);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+h1{
+    margin: 200px;
+    padding: 20px;
+    font-family: cursive;
+    font-size: 50px;
+    border: 3px, solid, cornsilk;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    border: 4px, solid, aquamarine;
+}
+
+h2{
+    font-family: cursive;
+    font-size: 40px;
+    margin: 50px;
+    padding: 20px;
+    border: 5px, solid, blue;
+}
