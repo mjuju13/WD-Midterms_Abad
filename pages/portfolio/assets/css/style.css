@@ -36,3 +36,8 @@ p.footer{
     font-family: 'Courier New', Courier, monospace;
     font-size: x-small;
 }
+img{
+    width: 34rem;
+    height: 45rem;
+    object-fit:cover;
+}
